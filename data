@@ -1,0 +1,11 @@
+# Data
+
+This project uses the Wine Quality Dataset from the UCI Machine Learning Repository.
+
+## Dataset Source
+
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
+## Instructions
+
+Download *winequality-red.csv* from the UCI Machine Learning Repository and place it in this folder before running the notebook.
